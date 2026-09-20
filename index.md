@@ -38,4 +38,4 @@ If the app's behaviour changes in a way that affects this policy, the policy wil
 
 ## Contact
 
-Questions about this policy can be sent to [CONTACT EMAIL].
+Questions about this policy can be sent to [packinglist.support@gmail.com](mailto:packinglist.support@gmail.com).
