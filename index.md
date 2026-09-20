@@ -14,7 +14,7 @@ Your data is removed when you uninstall the app or clear its storage from Androi
 
 The app uses Expo Application Services (EAS Update) to deliver bug fixes and improvements without a new store release. When the app starts, it contacts Expo's update servers at `u.expo.dev` to check whether a newer version is available.
 
-That request includes the app's version and update channel, the platform, the app's Expo project ID, and a randomly generated installation token used to tell whether an installation has already requested an update. The identifier is not linked to you, your device account or the contents of your lists. As with any internet request, Expo's servers also receive your device's IP address. Expo's handling of this information is described in the [Expo Privacy Policy](https://expo.dev/privacy).
+That request includes the app's version and update channel, the platform, the app's Expo project ID, and a randomly generated installation token used to tell whether an installation has already requested an update. The token is not linked to you, your device account or the contents of your lists. As with any internet request, Expo's servers also receive your device's IP address. Expo's handling of this information is described in the [Expo Privacy Policy](https://expo.dev/privacy).
 
 No other network requests are made.
 
