@@ -26,7 +26,7 @@ No other network requests are made.
 - It does not access your contacts, location, camera, microphone, photos or files.
 - It does not require you to create an account or sign in.
 
-The only Android permission the app requests is internet access, which is used solely for the update checks described above.
+The app requests no permission that gives access to personal data. Internet access is used solely for the update checks described above; the remaining entries in its Android manifest come from the app framework and are not used to read anything of yours.
 
 ## Children
 
